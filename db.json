@@ -1,0 +1,27 @@
+{
+  "subscriptions": [
+    {
+      "id": "f5w5um",
+      "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=1811&catalog[]=267&catalog[]=1812&catalog[]=1813&order=newest_first&brand_id[]=88&brand_id[]=304&brand_id[]=255&brand_id[]=94&price_to=15&currency=EUR&status[]=1&status[]=2",
+      "channelID": "884565682157649952"
+    },
+    {
+      "id": "feikms",
+      "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=1226&brand_id[]=88&price_to=30&currency=EUR&status[]=1&status[]=2&color_id[]=1&color_id[]=12&color_id[]=27&order=newest_first",
+      "channelID": "884565682157649952"
+    },
+    {
+      "id": "m4n27s",
+      "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=1226&brand_id[]=88&price_to=30&currency=EUR&status[]=1&status[]=2&color_id[]=1&color_id[]=12&color_id[]=27&order=newest_first",
+      "channelID": "884565682157649952"
+    }
+  ],
+  "last_item_f5w5um": 1631299967466,
+  "sent_items_f5w5um": [
+    1304227976
+  ],
+  "last_item_feikms": 1631299967467,
+  "sent_items_feikms": [],
+  "last_item_m4n27s": 1631299977135,
+  "sent_items_m4n27s": []
+}
